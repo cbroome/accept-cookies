@@ -1,0 +1,27 @@
+{
+  "name": "accept-cookies",
+  "version": "0.0.1",
+  "description": "Accept cookies and tracking popup",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cbroome/accept-cookies.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cbroome/accept-cookies/issues"
+  },
+  "homepage": "https://github.com/cbroome/accept-cookies#readme",
+  "devDependencies": {
+    "@types/react": "^18.0.15",
+    "react": "^18.2.0",
+    "typescript": "^4.7.4"
+  },
+  "dependencies": {
+    "styled-components": "^5.3.5"
+  }
+}
