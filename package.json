@@ -3,7 +3,7 @@
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/cbroome"
   },
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Accept cookies and tracking popup",
   "scripts": {
     "rollup": "rollup -c",
